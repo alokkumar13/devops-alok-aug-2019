@@ -1,6 +1,7 @@
 First git file
 modify info.txt
 test again
-after test again commit
+after test againn
+testing fetch
 after testting fetch commit
 
