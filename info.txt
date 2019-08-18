@@ -2,6 +2,4 @@ First git file
 modify info.txt
 test again
 after test againn
-testing fetch
-after testting fetch commit
-
+fetch test
